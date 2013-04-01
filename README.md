@@ -1,4 +1,5 @@
-config-files
+dot-files
 ============
 
-My config files that you might find useful as examples
+1. git pre-commit hook that won't allow commit if grunt 'all' task fails
+2. vanilla grunt config file
